@@ -1,0 +1,5 @@
+websearch-python
+duckduckgo_search
+aws-lambda-powertools
+pydantic
+beautifulsoup4 >= 4.4.0
