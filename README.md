@@ -7,7 +7,7 @@ This project leverages the AWS CDK in order to deploy resources to the aws accou
 ## Installation
 
 ### Prerequisits
-- AWS CDK
+- [AWS CDK](https://docs.aws.amazon.com/cdk/v2/guide/getting_started.html)
 - Python
 
 ### Setting up environment
